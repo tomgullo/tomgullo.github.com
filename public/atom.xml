@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Tom Gullo]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2013-03-09T12:19:27-05:00</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://tomgullo.github.com/atom.xml" rel="self"/>
+  <link href="http://tomgullo.github.com/"/>
+  <updated>2013-03-09T12:25:53-05:00</updated>
+  <id>http://tomgullo.github.com/</id>
   <author>
     <name><![CDATA[Tom Gullo]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Getting Started]]></title>
-    <link href="http://yoursite.com/blog/2013/03/06/getting-started/"/>
+    <link href="http://tomgullo.github.com/blog/2013/03/06/getting-started/"/>
     <updated>2013-03-06T12:40:00-05:00</updated>
-    <id>http://yoursite.com/blog/2013/03/06/getting-started</id>
+    <id>http://tomgullo.github.com/blog/2013/03/06/getting-started</id>
     <content type="html"><![CDATA[<p>This is a test of the blog</p>
 
 <p>Here is a link to <a href="http://www.cnn.com">CNN</a></p>

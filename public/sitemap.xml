@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://yoursite.com/blog/2013/03/06/getting-started/</loc>
+        <loc>http://tomgullo.github.com/blog/2013/03/06/getting-started/</loc>
         <lastmod>2013-03-09T12:09:20-05:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/404.html</loc>
+        <loc>http://tomgullo.github.com/404.html</loc>
         <lastmod>2013-03-09T12:09:20-05:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/blog/archives/</loc>
+        <loc>http://tomgullo.github.com/blog/archives/</loc>
         <lastmod>2013-03-09T12:09:20-05:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/</loc>
+        <loc>http://tomgullo.github.com/</loc>
         <lastmod>2013-03-09T12:09:20-05:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/robots.txt</loc>
+        <loc>http://tomgullo.github.com/robots.txt</loc>
         <lastmod>2013-03-09T12:09:20-05:00</lastmod>
     </url>
 </urlset>
